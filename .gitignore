@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Output files
+output/
+
+# Virtual environment
+.venv/
+
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+data/*.db
+
+# UV
+uv.lock

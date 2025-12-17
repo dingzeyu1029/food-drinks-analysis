@@ -1,0 +1,13 @@
+[project]
+name = "food-drinks-analysis"
+version = "1.0.0"
+description = "Food & Drinks API Analysis"
+requires-python = ">=3.9"
+dependencies = [
+    "requests",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "scipy",
+    "seaborn",
+]
